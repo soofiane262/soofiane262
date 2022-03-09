@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on creating a (mini)shell from scratch using C 🤓.
 
-📫 How to reach me : 📧 [email](mailto:rouchdisoufiane262@gmail.com) || 📱 [tel](tel:+212693163367)
+📫 How to reach me : 📧 [E-mail](mailto:rouchdisoufiane262@gmail.com) || 📱 <a href="tel:+212693163367">Phone</a>
 
 ⚡ Fun fact : Future isn't loading, **future is NOW** !!
 
