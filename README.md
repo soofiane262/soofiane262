@@ -10,6 +10,7 @@
 
 
 [![sel-mars's 42 stats](https://badge42.vercel.app/api/v2/cl49y2gyb004909l3hwkwo9dg/stats?cursusId=21&coalitionId=74)]
+(https://github.com/soofiane262?tab=repositories)
 
 <a href="https://github.com/soofiane262?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soofiane262&theme=dark"/>
