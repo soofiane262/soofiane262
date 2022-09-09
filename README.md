@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-𝕀𝕋 𝘈𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵 𝘌𝘹𝘱𝘦𝘳𝘵 in progress...
+𝕀𝕋 𝘈𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵 𝘌𝘹𝘱𝘦𝘳𝘵 to be…
 
-🔭 I’m currently working on a project inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever, enabling me to explore ray-casting. My goal is to make a dynamic view inside a maze, in which I’ll have to find my way 🤓.
+🔭 I’m currently working on a project whith C inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever, enabling me to explore ray-casting. My goal is to make a dynamic view inside a maze, in which I’ll have to find my way 🤓.
+
+I am also making my debuts in C++ with the CPP Pool Modules of the 42 Cursus.
 
 📫 How to reach me : 📧 [E-mail](mailto:rouchdisoufiane262@gmail.com) || 📱 Phone : +212693163367
 
