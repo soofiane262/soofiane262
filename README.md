@@ -1,10 +1,4 @@
-<h2 align="center">Hi 👋! My name is <strong>Soufiane</strong> and I'm a <strong>Software Engineering Student</strong></h2>
-
-###
-
-<div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=soofiane262&icon=0&color=1" alt="sel-mars's 42 stats" />
-</div>
+<h2 align="left">Hi 👋! My name is <strong>Soufiane</strong> and I'm a <strong>Software Engineering Student</strong></h2>
 
 ###
 
@@ -115,5 +109,3 @@ Staying ahead of industry trends drives my passion. Continual skill expansion fu
 </div>
 
 ###
-
-
